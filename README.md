@@ -43,11 +43,13 @@ Each data structure follows a similar pattern: createX, addX, printX, destroyX.
 
 ## 🧰 Utility Functions (utils.c)
 
+```bash
 intCompare(void*, void*) — for sorting and comparison
 
 intHash(void*) — simple hash function for integers
 
 printInt(void*), printKeyValue(void*, void*) — helper print functions
+```
 
 ## ⚙️ Dependencies
 None! Pure ANSI C.
